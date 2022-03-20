@@ -5,9 +5,9 @@ Alustasite tööd vähetuntud elektritootja Äge Elekter OÜ värskelt loodud IT
 Teie eelkäija, endine IT-spetsialist, tegeles peamiselt Windowsi arvutite seadistamisega ning ei teadnud Linuxist ega programmeerimisest väga midagi, aga ta oli ainuke IT-inimene majas ja haldas mõnikord ka rakendusi. Tarbimisajaloo rakendust ta kahjuks tööle panna ei jõudnud, aga lahkudes jättis ta igaks juhuks maha mõned oma märkmed – äkki on need kellelegi abiks.
 Lisaks on teil kaks pilti, mis näitavad, milline töökorras rakendus välja näeb.
 
-![Pilt 1](./Pilt1.png)
+![Pilt 1](./Pilt01.png)
 
-![Pilt 2](./Pilt2.png)
+![Pilt 2](./Pilt02.png)
 
 PS. klienditeenindus palus edasi öelda, et sellega on KIIRE!!!!
 
