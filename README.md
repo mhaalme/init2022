@@ -3,7 +3,11 @@
 Alustasite tööd vähetuntud elektritootja Äge Elekter OÜ värskelt loodud IT osakonnas ning saite esimeseks ülesandeks panna käima tarbimisajaloo veebirakendus. Rakenduse arendamist alustati päris ammu, aga kahjuks jäi see pooleli ning autorid on ammu töölt lahkunud, seega teie olete ettevõtte ainuke lootus.
 
 Teie eelkäija, endine IT-spetsialist, tegeles peamiselt Windowsi arvutite seadistamisega ning ei teadnud Linuxist ega programmeerimisest väga midagi, aga ta oli ainuke IT-inimene majas ja haldas mõnikord ka rakendusi. Tarbimisajaloo rakendust ta kahjuks tööle panna ei jõudnud, aga lahkudes jättis ta igaks juhuks maha mõned oma märkmed – äkki on need kellelegi abiks.
-Lisaks on teil kaks pilti, mis näitavad, milline töökorras rakendus välja näeb (järgmisel lehel).
+Lisaks on teil kaks pilti, mis näitavad, milline töökorras rakendus välja näeb.
+
+![Pilt 1](./Pilt1.png)
+
+![Pilt 2](./Pilt2.png)
 
 PS. klienditeenindus palus edasi öelda, et sellega on KIIRE!!!!
 
