@@ -14,7 +14,7 @@ Lisaks on teil kaks pilti, mis näitavad, milline töökorras rakendus välja n�
 PS. klienditeenindus palus edasi öelda, et sellega on KIIRE!!!!
 
 ## Ülesande lahendamine
-Ülesanne tuleb lahendada, kasutades ainult linuxi käsurida ja veebibrauserit.
+Ülesanne tuleb lahendada, kasutades **ainult linuxi käsurida ja veebibrauserit**.
 
 Abimaterjal, kus on vajalikud käsud olemas, on kättesaadav internetis: https://www.guru99.com/linux-commands-cheat-sheet.html
 
