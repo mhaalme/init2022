@@ -18,7 +18,7 @@ PS. klienditeenindus palus edasi öelda, et sellega on KIIRE!!!!
 
 Abimaterjal, kus on vajalikud käsud olemas, on kättesaadav internetis: https://www.guru99.com/linux-commands-cheat-sheet.html
 
-Eelnevad teadmised pole vajalikud - kõik ülesande lahendamiseks vajalik info on ülesande sees peidus.
+Eelnevad teadmised pole vajalikud - kõik ülesande lahendamiseks vajalik info on ülesande sees peidus. Kui leiate lahenduse kiiresti, võite küsida lisaülesannet või proovida ise rakendusele midagi põnevat juurde lisada.
 
 Head nuputamist!
 
