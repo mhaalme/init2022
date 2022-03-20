@@ -18,7 +18,7 @@ Head nuputamist!
 
 ## Ülesande allalaadimine
 ```
-wget https://github.com/mhaalme/init2022/raw/master/init2022-ee.tar.gz
+wget https://github.com/mhaalme/init2022/raw/main/init2022-ee.tar.gz
 tar -xzf init2022-ee.tar.gz
 cd init2022
 ```
